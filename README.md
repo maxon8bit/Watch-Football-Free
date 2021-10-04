@@ -1,7 +1,8 @@
 # Watch-Football-Free
 free Football live Stream 
 
-download the html files
-save them in one folder on for example your desktop
-open index.html
-now all will explain itself
+First download all 3 html files from Github. Save them in one Folder on for example your desktop. 
+Open the index.html file, to access the service. Your Browser will open and show you a website. 
+From this point all explain its self.
+
+I konw it looks like trash, but it works!
